@@ -23,6 +23,7 @@ This repo contains the source code and documentation powering [react.dev](https:
 1. `open http://localhost:3000` to open the site in your favorite browser
 
 ## Contributing
+Amish Nanda
 
 ### Guidelines
 
